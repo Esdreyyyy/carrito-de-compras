@@ -2,11 +2,7 @@ package com.poo2025.proyectocarritodecompras;
 
 /*
 Programa Realizado por:
-Estrella AA
-Yael LA
-Brian Joel MJ
-Yael VV
-
+Esdrey Moguel Diaz
 Ingenieria en TICS | POO 
  */
 import javax.swing.*;
